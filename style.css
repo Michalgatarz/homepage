@@ -1,0 +1,34 @@
+body {
+    background: grey;
+}
+
+.mainHeader {
+    color: yellow;
+    background: black;
+    font-size: 64px;
+}
+
+.ccHeader {
+    color: green;
+}
+
+p {
+    color: darkblue;
+}
+
+.jun {
+    height: 300px;
+}
+
+.bbHeader {
+    color: blue;
+    background: black;
+    font-size: 32px;
+}
+.aaHeader {
+    color:green;
+}
+.dd{
+    color:red;
+    background: black;
+}
